@@ -7,7 +7,7 @@ import java.util.List;
 
 @Data
 public class AccountHistoryDTO {
-   //ddd
+   //d
    private Long accountId;
    private double balance;
    private int currentPage;
